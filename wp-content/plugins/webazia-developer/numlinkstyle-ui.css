@@ -1,0 +1,27 @@
+/*
+Default style for WP-PageNavi plugin
+
+http://wordpress.org/extend/plugins/wp-pagenavi/
+*/
+
+.paging{
+	clear: both;
+}
+
+.paging a, .paging span {
+	text-decoration: none;
+	border: 1px solid #55432C;
+	padding: 5px 10px;
+	margin: 2px;
+	color: #F5D59E;
+}
+.paging a:hover{
+border: 1px solid #f5d59e;
+}
+.paging span.current {
+	background:#55432C;
+}
+
+.paging span.current {
+	font-weight: bold;
+}

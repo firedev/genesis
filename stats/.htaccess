@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "genesisvilla.com Statistics"
+AuthUserFile /var/chroot/home/content/48/7974148/html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html

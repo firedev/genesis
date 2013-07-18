@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fancy Gallery Plugin for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-19 19:46+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe\n"
+"Language-Team: Semasping <ya@semasping.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid ""
+"\"Automatic\" means scrollbars will be visibly if necessary. \"Yes\" and \"No"
+"\" should be clear."
+msgstr ""
+"&quot;Автоматический&quot; означает что полосы прокрутки появятся в случае "
+"необходимости. &quot;Да&quot; и &quot;Нет&quot; должно быть ясно."
+
+msgctxt "Abbr. Milliseconds"
+msgid "msec"
+msgstr "msec"
+
+msgctxt "Abbr. Pixels"
+msgid "px"
+msgstr "px"
+
+msgid "Appearance problems"
+msgstr "Проблемы внешнего вида"
+
+msgid "Automatic"
+msgstr "Автоматический"
+
+msgid "Border width"
+msgstr "Ширина каймы"
+
+msgid "Center on scroll"
+msgstr "В центре при прокрутке"
+
+msgid "Close button"
+msgstr "Кнопка &quot;Закрыть&quot;"
+
+msgid "Closing speed"
+msgstr "Скорость закрытия"
+
+msgid "Closing transition"
+msgstr "Закрытие перехода"
+
+msgid ""
+"Convert gallery images to inline elements. (Tick this box if your galleries "
+"have only one column.)"
+msgstr ""
+"Преобразование изображения в галерее в строку. (Отметьте этот флажок, если "
+"ваши галереи имеют только один столбец.)"
+
+msgid "Do not show image titles."
+msgstr "Не показывать заголовок изображения"
+
+msgid "Does not work blameless with multiline titles."
+msgstr "Не безупречно работает с многострочными названиями."
+
+msgid "Does not work with multiline titles."
+msgstr "Не показывать заголовок изображения"
+
+msgid "Elastic"
+msgstr "Эластичный"
+
+msgid "Fade"
+msgstr "Пропадать"
+
+msgid "Fancy Gallery"
+msgstr "Fancy Галерея"
+
+msgid "Fancy Gallery Options"
+msgstr "Функции Fancy Галереи"
+
+msgid "Fancy Gallery Settings"
+msgstr "Настройки Fancy Галереи"
+
+msgid "Hide the close button."
+msgstr "Скрыть кнопку &quot;Закрыть&quot;."
+
+msgid "Image resizing speed"
+msgstr "Скорость изменения размера "
+
+msgid "Image title"
+msgstr "Заголовок изображения"
+
+msgid "Inside the FancyBox"
+msgstr "Внутри FancyBox"
+
+msgid ""
+"Keep the FancyBox always in the center of the screen while scrolling the "
+"page."
+msgstr "Держать FancyBox всегда в центре экрана при прокрутке страницы."
+
+msgid "Loop mode"
+msgstr "Цикличный режим"
+
+msgid "No transition"
+msgstr "Нет перехода"
+
+msgid "Opening speed"
+msgstr "Скорость открытия"
+
+msgid "Opening transition"
+msgstr "Открытие перехода"
+
+msgid "Outside the FancyBox"
+msgstr "Вне FancyBox"
+
+msgid "Over the image"
+msgstr "На изображение"
+
+msgid "Overlay color"
+msgstr "Наложение цветов"
+
+msgid "Overlay opacity"
+msgstr "Наложение непрозрачности"
+
+msgid ""
+"Percentaged opacity of the background of the FancyBox. Should be a value "
+"from 0 (invisible) to 100 (opaque). (Default is 30)"
+msgstr ""
+"Процент прозрачности фона FancyBox. Должен принимать значение от 0 "
+"(невидимый) до 100 (непрозрачный). (По умолчанию 30)"
+
+msgid "Please choose the color of the \"darker\" background."
+msgstr "Пожалуйста, выберите цвет &quot;затемнения&quot; фона."
+
+msgid "Scrollbars"
+msgstr "Полосы прокрутки"
+
+msgid ""
+"Some themes let images appear as block elements. This effects that your "
+"image galleries have only one column."
+msgstr ""
+"В некоторых темах изображения представлены как элементы блока. This effects "
+"that your image galleries have only one column."
+
+msgid "Speed of resizing when changing gallery items. (in milliseconds)"
+msgstr ""
+"Скорость изменения размеров при изменении пунктов галереи. (В миллисекундах)"
+
+msgid "Speed of the fade and elastic transitions. (in milliseconds)"
+msgstr "Скорость пропадания и эластичных переходов. (В миллисекундах)"
+
+msgid ""
+"This option controls the appearance of the scrollbars inside the fancy box."
+msgstr "Этот параметр определяет внешний вид полосы прокрутки в окне Fancy."
+
+msgid "Title position"
+msgstr "Позиция заголовка"
+
+msgid "Use the alternative text of the image as title of the fancy box."
+msgstr ""
+"Использовать альтернативный текста изображений в качестве заголовка окна "
+"FancyBox."
+
+msgid "Use the image caption as title of the fancy box."
+msgstr "Использовать подпись изображений в качестве заголовка окна FancyBox."
+
+msgid "Use the image description as title of the fancy box."
+msgstr "Использовать описания изображений в качестве заголовка окна FancyBox."
+
+msgid "Use the title of the image as title of the fancy box."
+msgstr "Использовать названия изображений в качестве заголовка окна FancyBox."
+
+msgid "Width of the image frame border. (in pixels)"
+msgstr "Ширина границы кадра изображения. (В пикселях)"
+
+msgid ""
+"Will enable the user to get from the last image to the first one with the "
+"\"Next &raquo;\" button."
+msgstr ""
+"Если отмечено, то пользователь сможет переходить с последней к первой "
+"фотографии через кнопку \"Далее\"."
+
+msgid "Works fine with multiline titles."
+msgstr "Отлично работает с многострочным названиями."
+
+msgid "Cost: "
+msgstr "Стоимость: "
+
+msgid "Readiness: "
+msgstr "Готовность: "
